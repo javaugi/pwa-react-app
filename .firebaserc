@@ -1,1 +1,6 @@
-{}
+{
+  "projects": {
+    "y": "pwa-firebase-app",
+    "staging": "pwa-firebase-app"
+  }
+}
